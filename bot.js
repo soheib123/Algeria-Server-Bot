@@ -6,12 +6,12 @@ const prefix = "$";
 
 client.on('ready', () => {
    console.log(`----------------`);
-      console.log(`Desert Bot- Script By : EX Clan`);
+      console.log(`Desert Bot- Script By : !Soheib`);
         console.log(`----------------`);
-      console.log(`ON ${client.guilds.size} Servers '     Script By : EX Clan ' `);
+      console.log(`ON ${client.guilds.size} Servers '     Script By : !Soheib ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`$bc |DF_Team`,"http://twitch.tv/Death Shop")
+client.user.setGame(`$bc |!Soheib And Algeria Server Seystem`,"http://twitch.tv/soheibodz")
 client.user.setStatus("dnd")
 });
 
